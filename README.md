@@ -37,7 +37,7 @@ Open Source Contributions – Actively contributing and learning from the open-s
 order=true)  
 
 ### LeetCode Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/svdharani2005?theme=dark&font=Abel&ext=heatmap)](https://leetcode.com/u/svdharani2005/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DharanitharanS?theme=dark&font=Abel&ext=heatmap)](https://leetcode.com/u/DharanitharanS/)  
 
 ---  
 ## 🛠 Languages and Tools  
